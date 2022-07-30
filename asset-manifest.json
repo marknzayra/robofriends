@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.a44902d5.css",
+    "main.js": "/my-app/static/js/main.d79f0fd0.js",
+    "static/js/787.32032a02.chunk.js": "/my-app/static/js/787.32032a02.chunk.js",
+    "static/media/MR ROBOT.woff": "/my-app/static/media/MR ROBOT.ae7e35be11d8e7b07bac.woff",
+    "index.html": "/my-app/index.html",
+    "main.a44902d5.css.map": "/my-app/static/css/main.a44902d5.css.map",
+    "main.d79f0fd0.js.map": "/my-app/static/js/main.d79f0fd0.js.map",
+    "787.32032a02.chunk.js.map": "/my-app/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44902d5.css",
+    "static/js/main.d79f0fd0.js"
+  ]
+}
